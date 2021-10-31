@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Food</string>
+
+    <string name="facebook_app_id">357216952772043</string>
+    <string name="fb_login_protocol_scheme">fb357216952772043</string>
+    <string-array name="spinner">
+        <item>Now</item>
+        <item>Tomorrow</item>
+        <item>Custom</item>
+    </string-array>
+    <string-array name="spinner3">
+        <item>Cuisine</item>
+        <item>South Indian</item>
+        <item>North Indian</item>
+        <item>Punjabi</item>
+        <item>Global</item>
+    </string-array>
+</resources>
